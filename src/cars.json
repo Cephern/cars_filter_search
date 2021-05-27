@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "brand": "volvo",
+    "model": "s10",
+    "year": 2020,
+    "fuel": "hybrid",
+    "bodyType": "Sedan",
+    "price": 1000000
+  },
+  {
+    "id": 1,
+    "brand": "nissan",
+    "model": "silvia",
+    "year": 2002,
+    "fuel": "petrol",
+    "bodyType": "Sedan",
+    "price": 500000
+  },
+  {
+    "id": 2,
+    "brand": "nissan",
+    "model": "silvia",
+    "year": 2002,
+    "fuel": "petrol",
+    "bodyType": "Sedan",
+    "price": 500000
+  },
+  {
+    "id": 3,
+    "brand": "kia",
+    "model": "sorento",
+    "year": 2018,
+    "fuel": "petrol",
+    "bodyType": "Sedan",
+    "price": 2000000
+  },
+  {
+    "id": 4,
+    "brand": "kia",
+    "model": "sportage",
+    "year": 2002,
+    "fuel": "petrol",
+    "bodyType": "Hachback",
+    "price": 2000000
+  }
+]
