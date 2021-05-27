@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { BasicSelect } from "@consta/uikit/BasicSelect";
 import { Button } from "@consta/uikit/Button";
 
@@ -51,8 +51,6 @@ const Filter = ({
     // eslint-disable-next-line
   }, []);
 
-  const form = useRef();
-
   const handleBrandChange = (option) => {
     setBrand(option.value);
     setModel("");
@@ -97,7 +95,7 @@ const Filter = ({
 
   return (
     <div className="search">
-      <form ref={form}>
+      <form>
         <div className="formGroup">
           <label htmlFor="brand">Brand: </label>
           <BasicSelect

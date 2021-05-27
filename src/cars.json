@@ -2,46 +2,136 @@
   {
     "id": 0,
     "brand": "volvo",
-    "model": "s10",
-    "year": 2020,
-    "fuel": "hybrid",
+    "model": "s80",
+    "year": 2007,
+    "fuel": "petrol",
     "bodyType": "Sedan",
-    "price": 1000000
+    "price": 480000
   },
   {
     "id": 1,
     "brand": "nissan",
-    "model": "silvia",
-    "year": 2002,
+    "model": "Qashqai",
+    "year": 2014,
     "fuel": "petrol",
-    "bodyType": "Sedan",
-    "price": 500000
+    "bodyType": "Hachback",
+    "price": 1000000
   },
   {
     "id": 2,
-    "brand": "nissan",
-    "model": "silvia",
-    "year": 2002,
-    "fuel": "petrol",
+    "brand": "toyota",
+    "model": "Camry",
+    "year": 2019,
+    "fuel": "hybrid",
     "bodyType": "Sedan",
-    "price": 500000
+    "price": 2100000
   },
   {
     "id": 3,
     "brand": "kia",
-    "model": "sorento",
-    "year": 2018,
+    "model": "Sportage",
+    "year": 2021,
     "fuel": "petrol",
-    "bodyType": "Sedan",
-    "price": 2000000
+    "bodyType": "Hachback",
+    "price": 2200000
   },
   {
     "id": 4,
+    "brand": "volvo",
+    "model": "XC60",
+    "year": 2019,
+    "fuel": "diesel",
+    "bodyType": "Hachback",
+    "price": 3600000
+  },
+  {
+    "id": 5,
+    "brand": "nissan",
+    "model": "Silvia",
+    "year": 2000,
+    "fuel": "petrol",
+    "bodyType": "Sedan",
+    "price": 2100000
+  },
+  {
+    "id": 6,
     "brand": "kia",
-    "model": "sportage",
-    "year": 2002,
+    "model": "Cerato",
+    "year": 2014,
+    "fuel": "petrol",
+    "bodyType": "Sedan",
+    "price": 8100000
+  },
+  {
+    "id": 7,
+    "brand": "toyota",
+    "model": "Corolla",
+    "year": 2015,
+    "fuel": "hybrid",
+    "bodyType": "Sedan",
+    "price": 1200000
+  },
+  {
+    "id": 8,
+    "brand": "bmw",
+    "model": "X6",
+    "year": 2020,
+    "fuel": "diesel",
+    "bodyType": "SUV",
+    "price": 6200000
+  },
+  {
+    "id": 9,
+    "brand": "volvo",
+    "model": "s90",
+    "year": 2017,
+    "fuel": "hybrid",
+    "bodyType": "Sedan",
+    "price": 2500000
+  },
+  {
+    "id": 10,
+    "brand": "toyota",
+    "model": "Hilux",
+    "year": 2017,
+    "fuel": "diesel",
+    "bodyType": "MPV",
+    "price": 1900000
+  },
+  {
+    "id": 11,
+    "brand": "nissan",
+    "model": "Juke",
+    "year": 2012,
+    "fuel": "diesel",
+    "bodyType": "Hachback",
+    "price": 630000
+  },
+  {
+    "id": 12,
+    "brand": "kia",
+    "model": "Sportage",
+    "year": 2017,
     "fuel": "petrol",
     "bodyType": "Hachback",
-    "price": 2000000
+    "price": 1500000
+  },
+  {
+    "id": 13,
+    "brand": "bmw",
+    "model": "i8",
+    "year": 2019,
+    "fuel": "electric",
+    "bodyType": "Sedan",
+    "price": 7300000
+  },
+  {
+    "id": 14,
+    "brand": "bmw",
+    "model": "5-Series",
+    "year": 2013,
+    "fuel": "petrol",
+    "bodyType": "Sedan",
+    "price": 1500000
   }
 ]

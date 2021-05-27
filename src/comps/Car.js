@@ -1,6 +1,7 @@
 const Car = ({ brand, model, year, fuel, bodyType, price }) => {
   return (
     <div className="car">
+      <img src={`images/${brand}.jpg`} alt={`${brand} car`} />
       <p>
         Brand: <span className="brandSpan">{brand}</span>
       </p>
@@ -17,7 +18,7 @@ const Car = ({ brand, model, year, fuel, bodyType, price }) => {
         Body Type: <span className="bodyTypeSpan">{bodyType}</span>
       </p>
       <p>
-        Price: <span className="priceSpan">{price}</span> $
+        Price: <span className="priceSpan">{price}</span> ₽
       </p>
     </div>
   );

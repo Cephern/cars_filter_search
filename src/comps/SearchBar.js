@@ -14,6 +14,7 @@ const SearchBar = ({ cars, setFiltered }) => {
     setBrand(null);
     setModel(null);
     setYear(null);
+    setFuel(null);
     setBodyType(null);
     setPrice(0);
   };
